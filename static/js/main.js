@@ -1456,7 +1456,7 @@
                                             })]
                                         })
                                     }), Object(E.jsx)(fe.a, {
-                                        href: "https://safutitano.gitbook.io/safu-titano/",
+                                        href: "https://gitbook.io",
                                         target: "_blank",
                                         className: Dt()("button-dapp-menu", {
                                             active: a
