@@ -676,10 +676,10 @@
                                     className: "tooltip",
                                     children: [Object(E.jsx)(fe.a, {
                                         className: "tooltip-item",
-                                        href: "https://app.bogged.finance/bsc/swap?tokenIn=BNB&tokenOut=0x727cA82f5242dD00B5f5896fAF8655A09e9b8d45",
+                                        href: "https://tethys.finance/swap?inputCurrency=METIS&outputCurrency=0x727cA82f5242dD00B5f5896fAF8655A09e9b8d45",
                                         target: "_blank",
                                         children: Object(E.jsx)("p", {
-                                            children: "Buy on Bog Swap"
+                                            children: "Buy on Tethys"
                                         })
                                     }), i && Object(E.jsxs)("div", {
                                         className: "add-tokens",
@@ -1441,7 +1441,7 @@
                                             })]
                                         })
                                     }), Object(E.jsx)(fe.a, {
-                                        href: "https://app.bogged.finance/bsc/swap?tokenIn=BNB&tokenOut=0x727cA82f5242dD00B5f5896fAF8655A09e9b8d45",
+                                        href: "https://tethys.finance/swap?inputCurrency=METIS&outputCurrency=0x727cA82f5242dD00B5f5896fAF8655A09e9b8d45",
                                         target: "_blank",
                                         className: Dt()("button-dapp-menu", {
                                             active: a
